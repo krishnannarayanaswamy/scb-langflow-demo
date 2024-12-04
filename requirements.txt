@@ -1,0 +1,17 @@
+streamlit
+google-cloud-aiplatform
+pypdfium2
+cassio
+gliner
+html2text
+keybert
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-astradb
+openai
+python-dotenv
+ragstack-ai-knowledge-store
+unstructured
